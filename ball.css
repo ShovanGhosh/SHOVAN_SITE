@@ -1,0 +1,37 @@
+.back{
+	background-color: rgba(100,120,210,0.5);
+}
+.p1{
+	font-style: italic;
+	font-size: 60px;
+	background-color: rgba(100,50,120,0.5);
+	 text-align: center;
+	 font-weight: normal;
+}
+.p2{
+	font-size: 16px;
+	 text-align: center;
+	 background-color: rgba(100,60,120,0.5);
+}
+.p3{
+	font-size: 16px;
+	 text-align: center;
+	 background-color: rgb(255,0,0);
+}
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+  <!--flex-direction: column;-->
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+ 
+.style1 {font-weight: bold}
+body {
+	background-image: url(IMAGES/DSC_0152.JPG);
+}
