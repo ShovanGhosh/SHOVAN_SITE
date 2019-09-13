@@ -33,6 +33,10 @@
  
 .style1 {font-weight: bold}
 body {
-	background-image: url(DSC_0152.JPG);
+	background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+	url("IMAGES/DSC_0152.JPG");
+	background-size: contain;
+	background-repeat: no-repeat;
+	/*background-image: url(IMAGES/DSC_0152.JPG);*/
 }
 
