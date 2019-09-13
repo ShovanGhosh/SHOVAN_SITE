@@ -1,9 +1,7 @@
 .back{
 	background-color: rgba(100,120,210,0.5);
 }
- a:link {
-  color:#f5fc83 ;
-}
+ 
 .p1{
 	font-style: italic;
 	font-size: 60px;
@@ -42,4 +40,6 @@ body {
 	background-repeat: no-repeat;
 	/*background-image: url(IMAGES/DSC_0152.JPG);*/
 }
-
+a:link {
+  color:#f5fc83 ;
+}
